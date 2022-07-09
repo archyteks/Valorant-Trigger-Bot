@@ -3,11 +3,6 @@ a simple VALORANT triggerbot built in Python. uses red/purple enemy colors. (use
 
 <div align=center>
 
-  ```
-  🚫 Update 12/5: Cheat has been detected by VANGUARD; proceed with caution
-  ```
-  
-  
   # VALORANT Cheat
   ```
   💎 VALORANT triggerbot built in Python (use at your own risk!)
