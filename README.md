@@ -7,8 +7,12 @@ a simple VALORANT triggerbot built in Python. uses red/purple enemy colors. (use
   ```
   💎 VALORANT triggerbot built in Python (use at your own risk!)
   ```
+ 
   
 </div>
+
+## Credits to
+Thanks to rexplode and SliXs for helping with this project
 
 ## Instructions
 1. [Download](https://github.com/archyteks/Valorant-Trigger-Bot/releases/latest) the executable `ValoTriggerBot.exe`
